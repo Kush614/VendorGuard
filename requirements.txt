@@ -1,0 +1,5 @@
+streamlit
+openai>=1.66.0
+python-dotenv
+plotly
+pandas
